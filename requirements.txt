@@ -1,0 +1,6 @@
+bs4
+pathlib
+pyyaml
+requests
+#tkinter
+urllib3
